@@ -60,6 +60,7 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by: Gayathri A
 
 RegisterNumber: 212221230028
@@ -86,11 +87,13 @@ xnor (R,a,b);
 
 endmodule  
 */
-Logic symbol & Truthtable
+Logic symbol & Truthtable:
+
 ![i1](https://user-images.githubusercontent.com/94154854/189495356-aa294eb9-ba5e-415e-9b18-8fc54f74a105.png)
 
 RTL realization
 Output:
+
 ![i2](https://user-images.githubusercontent.com/94154854/189495366-f752c4bd-68d8-4b53-801e-d6d650bf5085.png)
 
 
